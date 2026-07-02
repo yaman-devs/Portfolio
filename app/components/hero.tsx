@@ -104,7 +104,7 @@ export default function Hero() {
             Full Stack Developer
           </h2>
           <h3 className="flex justify-center items-center gap-2 text-base sm:text-xl md:text-2xl  lg:text-3xl text-gray-500">
-            <FaMapMarkerAlt className=" " /> Bursa, Turkey
+            <FaMapMarkerAlt className=" " /> Aleppo, Syria 
           </h3>
         </div>
 
